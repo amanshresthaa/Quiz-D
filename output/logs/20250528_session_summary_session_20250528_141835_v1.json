@@ -1,0 +1,27 @@
+{
+  "session_id": "session_20250528_141835",
+  "start_time": "2025-05-28T14:18:35.784350",
+  "end_time": "2025-05-28T14:19:19.224796",
+  "duration_seconds": 43.440446,
+  "output_files": {
+    "content_files": [
+      "20250528_processed_Medical_Student_Notes_v1.json"
+    ],
+    "quiz_files": [
+      "20250528_quiz_cardiovascular_disease_v1.json"
+    ],
+    "question_files": [
+      "20250528_questions_cardiovascular_disease_v1.json"
+    ],
+    "log_files": [
+      "20250528_session_summary_session_20250528_141717_v1.json",
+      "20250528_batch_content_ingestion_summary_v1.json",
+      "20250528_performance_metrics_v1.json",
+      "20250528_processing_log_v1.json"
+    ]
+  },
+  "performance_metrics": {
+    "total_duration": 43.440446,
+    "files_processed": 2
+  }
+}

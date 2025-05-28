@@ -1,0 +1,21 @@
+{
+  "session_id": "session_20250528_141717",
+  "start_time": "2025-05-28T14:17:17.753583",
+  "end_time": "2025-05-28T14:17:17.795054",
+  "duration_seconds": 0.041471,
+  "output_files": {
+    "content_files": [
+      "20250528_processed_Medical_Student_Notes_v1.json"
+    ],
+    "quiz_files": [],
+    "question_files": [],
+    "log_files": [
+      "20250528_batch_content_ingestion_summary_v1.json",
+      "20250528_processing_log_v1.json"
+    ]
+  },
+  "performance_metrics": {
+    "total_duration": 0.041471,
+    "files_processed": 2
+  }
+}

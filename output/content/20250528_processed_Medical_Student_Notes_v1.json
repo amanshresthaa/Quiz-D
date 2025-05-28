@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "content_id": "44e908df-16d6-4579-b1b2-a5b546eee089",
+  "content_title": "Medical Student Notes",
+  "chunks_created": 2,
+  "embeddings_generated": 2,
+  "vectors_stored": 2,
+  "processing_time_seconds": 0.01,
+  "average_chunk_tokens": 938,
+  "total_tokens": 1877,
+  "source": "input_file:20241224_medical_student_notes_v1.txt",
+  "metadata": {
+    "original_filename": "20241224_medical_student_notes_v1.txt"
+  }
+}

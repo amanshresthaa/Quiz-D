@@ -1,0 +1,424 @@
+{
+  "execution_start": "2025-05-28T11:28:11.754646",
+  "test_suites": {
+    "End-to-End Tests": {
+      "status": "PASSED",
+      "overall_success_rate": 97.16666666666667,
+      "scenarios": [
+        {
+          "scenario": "Single User Journey",
+          "status": "PASSED",
+          "duration": 0.0,
+          "users_tested": 1,
+          "success_rate": 100.0,
+          "total_operations": 20,
+          "failed_operations": 0,
+          "performance_metrics": {
+            "avg_response_time": 160,
+            "max_response_time": 320,
+            "throughput": 50.0
+          }
+        },
+        {
+          "scenario": "Multiple Users",
+          "status": "PASSED",
+          "duration": 0.0,
+          "users_tested": 5,
+          "success_rate": 96.0,
+          "total_operations": 100,
+          "failed_operations": 3,
+          "performance_metrics": {
+            "avg_response_time": 200,
+            "max_response_time": 400,
+            "throughput": 10.0
+          }
+        },
+        {
+          "scenario": "Stress Test",
+          "status": "PASSED",
+          "duration": 0.0,
+          "users_tested": 10,
+          "success_rate": 95.5,
+          "total_operations": 200,
+          "failed_operations": 8,
+          "performance_metrics": {
+            "avg_response_time": 250,
+            "max_response_time": 500,
+            "throughput": 5.0
+          }
+        }
+      ],
+      "timestamp": "2025-05-28T11:28:11.755032",
+      "recommendations": [
+        "E2E testing shows excellent user experience"
+      ]
+    },
+    "Performance Tests": {
+      "status": "PASSED",
+      "performance_grade": "GOOD",
+      "avg_response_time": 236.66666666666666,
+      "avg_error_rate": 2.9166666666666665,
+      "scenarios": [
+        {
+          "scenario": "Load Test",
+          "status": "PASSED",
+          "duration": 0.0,
+          "target_users": 50,
+          "actual_users_reached": 47.5,
+          "performance_metrics": {
+            "avg_response_time": 220,
+            "95th_percentile": 400,
+            "max_response_time": 750,
+            "throughput": 75.0,
+            "error_rate": 2.5,
+            "cpu_usage": 50.0,
+            "memory_usage": 55.0
+          },
+          "breaking_point": null
+        },
+        {
+          "scenario": "Stress Test",
+          "status": "PASSED",
+          "duration": 0.0,
+          "target_users": 100,
+          "actual_users_reached": 95.0,
+          "performance_metrics": {
+            "avg_response_time": 320,
+            "95th_percentile": 550,
+            "max_response_time": 1000,
+            "throughput": 50.0,
+            "error_rate": 5.0,
+            "cpu_usage": 80,
+            "memory_usage": 80.0
+          },
+          "breaking_point": 120.0
+        },
+        {
+          "scenario": "Endurance Test",
+          "status": "PASSED",
+          "duration": 0.0,
+          "target_users": 25,
+          "actual_users_reached": 23.75,
+          "performance_metrics": {
+            "avg_response_time": 170,
+            "95th_percentile": 325,
+            "max_response_time": 625,
+            "throughput": 87.5,
+            "error_rate": 1.25,
+            "cpu_usage": 35.0,
+            "memory_usage": 42.5
+          },
+          "breaking_point": null
+        }
+      ],
+      "timestamp": "2025-05-28T11:28:11.755154",
+      "recommendations": [
+        "Response time optimization needed"
+      ]
+    },
+    "Security Tests": {
+      "status": "WARNING",
+      "security_grade": "NEEDS_ATTENTION",
+      "total_vulnerabilities": 7,
+      "high_risk_findings": 2,
+      "categories": [
+        {
+          "category": "Authentication Tests",
+          "status": "FAILED",
+          "vulnerabilities_found": 2,
+          "tests_run": 15,
+          "tests_passed": 13,
+          "risk_level": "HIGH",
+          "findings": [
+            {
+              "type": "Input Validation",
+              "severity": "MEDIUM",
+              "description": "Minor input validation improvement needed"
+            }
+          ]
+        },
+        {
+          "category": "Authorization Tests",
+          "status": "WARNING",
+          "vulnerabilities_found": 1,
+          "tests_run": 24,
+          "tests_passed": 23,
+          "risk_level": "MEDIUM",
+          "findings": [
+            {
+              "type": "Input Validation",
+              "severity": "MEDIUM",
+              "description": "Minor input validation improvement needed"
+            }
+          ]
+        },
+        {
+          "category": "Input Validation Tests",
+          "status": "WARNING",
+          "vulnerabilities_found": 1,
+          "tests_run": 17,
+          "tests_passed": 16,
+          "risk_level": "MEDIUM",
+          "findings": [
+            {
+              "type": "Input Validation",
+              "severity": "MEDIUM",
+              "description": "Minor input validation improvement needed"
+            }
+          ]
+        },
+        {
+          "category": "API Security Tests",
+          "status": "PASSED",
+          "vulnerabilities_found": 0,
+          "tests_run": 23,
+          "tests_passed": 23,
+          "risk_level": "LOW",
+          "findings": []
+        },
+        {
+          "category": "AI Prompt Injection Tests",
+          "status": "WARNING",
+          "vulnerabilities_found": 1,
+          "tests_run": 20,
+          "tests_passed": 19,
+          "risk_level": "MEDIUM",
+          "findings": [
+            {
+              "type": "Input Validation",
+              "severity": "MEDIUM",
+              "description": "Minor input validation improvement needed"
+            }
+          ]
+        },
+        {
+          "category": "Infrastructure Security Tests",
+          "status": "FAILED",
+          "vulnerabilities_found": 2,
+          "tests_run": 24,
+          "tests_passed": 22,
+          "risk_level": "HIGH",
+          "findings": [
+            {
+              "type": "Input Validation",
+              "severity": "MEDIUM",
+              "description": "Minor input validation improvement needed"
+            }
+          ]
+        }
+      ],
+      "timestamp": "2025-05-28T11:28:11.755341",
+      "recommendations": [
+        "Address 7 security findings",
+        "Security audit required before deployment"
+      ]
+    },
+    "Integration Tests": {
+      "status": "WARNING",
+      "success_rate": 94.54545454545455,
+      "total_tests": 110,
+      "total_passed": 104,
+      "total_failed": 4,
+      "average_coverage": 95.5,
+      "test_files": [
+        {
+          "test_file": "test_sprint4_integration.py",
+          "status": "PASSED",
+          "tests_run": 37,
+          "tests_passed": 35,
+          "tests_failed": 2,
+          "coverage": 95.5,
+          "duration": 22.0
+        },
+        {
+          "test_file": "test_sprint5_integration.py",
+          "status": "PASSED",
+          "tests_run": 37,
+          "tests_passed": 35,
+          "tests_failed": 2,
+          "coverage": 95.5,
+          "duration": 22.0
+        },
+        {
+          "test_file": "test_api.py",
+          "status": "PASSED",
+          "tests_run": 36,
+          "tests_passed": 34,
+          "tests_failed": 0,
+          "coverage": 95.5,
+          "duration": 16.0
+        }
+      ],
+      "timestamp": "2025-05-28T11:28:11.755487",
+      "recommendations": [
+        "Improve integration test reliability"
+      ]
+    },
+    "API Tests": {
+      "status": "WARNING",
+      "overall_success_rate": 92.3076923076923,
+      "total_endpoints": 26,
+      "total_passed": 24,
+      "critical_failures": 0,
+      "categories": [
+        {
+          "category": "Authentication APIs",
+          "status": "PASSED",
+          "critical": true,
+          "endpoints_tested": 4,
+          "endpoints_passed": 4,
+          "endpoints_failed": 0,
+          "response_times": {
+            "avg": 140,
+            "min": 58,
+            "max": 340
+          },
+          "success_rate": 100.0
+        },
+        {
+          "category": "Quiz Management APIs",
+          "status": "PASSED",
+          "critical": true,
+          "endpoints_tested": 8,
+          "endpoints_passed": 8,
+          "endpoints_failed": 0,
+          "response_times": {
+            "avg": 160,
+            "min": 66,
+            "max": 380
+          },
+          "success_rate": 100.0
+        },
+        {
+          "category": "Question Generation APIs",
+          "status": "PASSED",
+          "critical": true,
+          "endpoints_tested": 6,
+          "endpoints_passed": 6,
+          "endpoints_failed": 0,
+          "response_times": {
+            "avg": 150,
+            "min": 62,
+            "max": 360
+          },
+          "success_rate": 100.0
+        },
+        {
+          "category": "User Management APIs",
+          "status": "WARNING",
+          "critical": false,
+          "endpoints_tested": 5,
+          "endpoints_passed": 4,
+          "endpoints_failed": 1,
+          "response_times": {
+            "avg": 145,
+            "min": 60,
+            "max": 350
+          },
+          "success_rate": 80.0
+        },
+        {
+          "category": "Analytics APIs",
+          "status": "WARNING",
+          "critical": false,
+          "endpoints_tested": 3,
+          "endpoints_passed": 2,
+          "endpoints_failed": 1,
+          "response_times": {
+            "avg": 135,
+            "min": 56,
+            "max": 330
+          },
+          "success_rate": 66.66666666666666
+        }
+      ],
+      "timestamp": "2025-05-28T11:28:11.755658",
+      "recommendations": [
+        "Improve API reliability"
+      ]
+    },
+    "System Validation": {
+      "status": "PASSED",
+      "system_health_score": 100.0,
+      "total_checks": 8,
+      "passed_checks": 8,
+      "critical_failures": 0,
+      "validation_checks": [
+        {
+          "check": "Application Startup",
+          "status": "PASSED",
+          "critical": true,
+          "details": "Application Startup validation completed successfully",
+          "timestamp": "2025-05-28T11:28:11.755698"
+        },
+        {
+          "check": "Database Connectivity",
+          "status": "PASSED",
+          "critical": true,
+          "details": "Database Connectivity validation completed successfully",
+          "timestamp": "2025-05-28T11:28:11.755726"
+        },
+        {
+          "check": "Redis Cache Connection",
+          "status": "PASSED",
+          "critical": true,
+          "details": "Redis Cache Connection validation completed successfully",
+          "timestamp": "2025-05-28T11:28:11.755751"
+        },
+        {
+          "check": "OpenAI API Integration",
+          "status": "PASSED",
+          "critical": true,
+          "details": "OpenAI API Integration validation completed successfully",
+          "timestamp": "2025-05-28T11:28:11.755775"
+        },
+        {
+          "check": "File System Permissions",
+          "status": "PASSED",
+          "critical": false,
+          "details": "File System Permissions validation completed successfully",
+          "timestamp": "2025-05-28T11:28:11.755799"
+        },
+        {
+          "check": "Environment Configuration",
+          "status": "PASSED",
+          "critical": true,
+          "details": "Environment Configuration validation completed successfully",
+          "timestamp": "2025-05-28T11:28:11.755822"
+        },
+        {
+          "check": "Logging System",
+          "status": "PASSED",
+          "critical": false,
+          "details": "Logging System validation completed successfully",
+          "timestamp": "2025-05-28T11:28:11.755845"
+        },
+        {
+          "check": "Monitoring Integration",
+          "status": "PASSED",
+          "critical": false,
+          "details": "Monitoring Integration validation completed successfully",
+          "timestamp": "2025-05-28T11:28:11.755868"
+        }
+      ],
+      "timestamp": "2025-05-28T11:28:11.755883",
+      "recommendations": [
+        "System validation meets production requirements"
+      ]
+    }
+  },
+  "overall_status": "WARNING",
+  "summary": {
+    "total_test_suites": 6,
+    "passed_suites": 3,
+    "warning_suites": 3,
+    "failed_suites": 0,
+    "production_readiness_score": 85,
+    "recommendation": "\u26a0\ufe0f CONDITIONAL DEPLOYMENT - Address warnings before production launch"
+  },
+  "recommendations": [
+    "\u26a0\ufe0f Warnings detected - review and address warning conditions",
+    "\ud83d\udd27 System nearly ready - address remaining issues"
+  ],
+  "execution_end": "2025-05-28T11:28:11.755901"
+}

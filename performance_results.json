@@ -1,0 +1,580 @@
+{
+  "timestamp": "2025-05-28 09:41:20",
+  "tests": {
+    "topic_performance": {
+      "Python programming": {
+        "topic": "Python programming",
+        "requested_questions": 5,
+        "generated_questions": 2,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 26.972412824630737,
+        "questions_per_second": 0.07414983646452404,
+        "evaluation_enabled": true,
+        "metrics": {
+          "start_time": 1748421680.7537122,
+          "topic": "Python programming",
+          "requested_questions": 5,
+          "phases": {
+            "question_generation": {
+              "duration": 26.972075939178467,
+              "questions_generated": 2,
+              "evaluation_results": {
+                "context_retrieval_time": 0.010278940200805664,
+                "total_generation_time": 134.77086281776428,
+                "evaluation_time": 0,
+                "question_generation_attempts": 15,
+                "concurrent_tasks_peak": 5,
+                "total_time": 26.971660137176514,
+                "questions_per_second": 0.07415190573468967
+              }
+            },
+            "quiz_creation": {
+              "duration": 5.2928924560546875e-05
+            },
+            "quiz_evaluation": {
+              "duration": 0.00017786026000976562,
+              "contexts_found": 0
+            }
+          },
+          "total_duration": 26.9723379611969,
+          "questions_per_second": 0.07415004227209564
+        },
+        "success": true,
+        "partial_generation": true
+      },
+      "Machine Learning basics": {
+        "topic": "Machine Learning basics",
+        "requested_questions": 5,
+        "generated_questions": 5,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 0.04992198944091797,
+        "questions_per_second": 100.15626492444648,
+        "evaluation_enabled": true,
+        "metrics": {
+          "start_time": 1748421707.726181,
+          "topic": "Machine Learning basics",
+          "requested_questions": 5,
+          "phases": {
+            "question_generation": {
+              "duration": 0.049069881439208984,
+              "questions_generated": 5,
+              "evaluation_results": {
+                "context_retrieval_time": 0.00026488304138183594,
+                "total_generation_time": 0.16602182388305664,
+                "evaluation_time": 0,
+                "question_generation_attempts": 10,
+                "concurrent_tasks_peak": 5,
+                "total_time": 0.04821181297302246,
+                "questions_per_second": 103.70902257498207
+              }
+            },
+            "quiz_creation": {
+              "duration": 3.0040740966796875e-05
+            },
+            "quiz_evaluation": {
+              "duration": 0.0007491111755371094,
+              "contexts_found": 0
+            }
+          },
+          "total_duration": 0.04985618591308594,
+          "questions_per_second": 100.28845785990282
+        },
+        "success": true,
+        "partial_generation": false
+      },
+      "Computer science fundamentals": {
+        "topic": "Computer science fundamentals",
+        "requested_questions": 5,
+        "generated_questions": 3,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 35.25994396209717,
+        "questions_per_second": 0.08508238139076067,
+        "evaluation_enabled": true,
+        "metrics": {
+          "start_time": 1748421707.776124,
+          "topic": "Computer science fundamentals",
+          "requested_questions": 5,
+          "phases": {
+            "question_generation": {
+              "duration": 35.25984287261963,
+              "questions_generated": 3,
+              "evaluation_results": {
+                "context_retrieval_time": 0.00025200843811035156,
+                "total_generation_time": 105.79829168319702,
+                "evaluation_time": 0,
+                "question_generation_attempts": 15,
+                "concurrent_tasks_peak": 5,
+                "total_time": 35.25972080230713,
+                "questions_per_second": 0.08508291987960673
+              }
+            },
+            "quiz_creation": {
+              "duration": 1.9788742065429688e-05
+            },
+            "quiz_evaluation": {
+              "duration": 4.291534423828125e-06,
+              "contexts_found": 0
+            }
+          },
+          "total_duration": 35.25989484786987,
+          "questions_per_second": 0.0850824999037465
+        },
+        "success": true,
+        "partial_generation": true
+      },
+      "Data structures and algorithms": {
+        "topic": "Data structures and algorithms",
+        "requested_questions": 5,
+        "generated_questions": 5,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 25.461403846740723,
+        "questions_per_second": 0.19637566059186648,
+        "evaluation_enabled": true,
+        "metrics": {
+          "start_time": 1748421743.036095,
+          "topic": "Data structures and algorithms",
+          "requested_questions": 5,
+          "phases": {
+            "question_generation": {
+              "duration": 25.461206197738647,
+              "questions_generated": 5,
+              "evaluation_results": {
+                "context_retrieval_time": 0.00021028518676757812,
+                "total_generation_time": 127.2463607788086,
+                "evaluation_time": 0,
+                "question_generation_attempts": 13,
+                "concurrent_tasks_peak": 5,
+                "total_time": 25.46072292327881,
+                "questions_per_second": 0.19638091247709571
+              }
+            },
+            "quiz_creation": {
+              "duration": 7.915496826171875e-05
+            },
+            "quiz_evaluation": {
+              "duration": 9.059906005859375e-06,
+              "contexts_found": 0
+            }
+          },
+          "total_duration": 25.461300134658813,
+          "questions_per_second": 0.19637646049322616
+        },
+        "success": true,
+        "partial_generation": false
+      },
+      "Software engineering principles": {
+        "topic": "Software engineering principles",
+        "requested_questions": 5,
+        "generated_questions": 0,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 4.509613037109375,
+        "questions_per_second": 0,
+        "evaluation_enabled": true,
+        "metrics": {
+          "error": "Quiz generation failed: No questions could be generated for topic: Software engineering principles",
+          "total_duration": 0,
+          "questions_per_second": 0
+        },
+        "success": false,
+        "error": "Quiz generation failed: No questions could be generated for topic: Software engineering principles",
+        "partial_generation": false
+      }
+    },
+    "question_type_performance": {
+      "multiple_choice": {
+        "topic": "Programming fundamentals",
+        "requested_questions": 3,
+        "generated_questions": 3,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 16.35890293121338,
+        "questions_per_second": 0.18338638065245141,
+        "evaluation_enabled": false,
+        "metrics": {
+          "start_time": 1748421773.007375,
+          "topic": "Programming fundamentals",
+          "requested_questions": 3,
+          "phases": {
+            "question_generation": {
+              "duration": 16.358769178390503,
+              "questions_generated": 3,
+              "evaluation_results": {
+                "context_retrieval_time": 0.00044989585876464844,
+                "total_generation_time": 49.05780744552612,
+                "evaluation_time": 0,
+                "question_generation_attempts": 10,
+                "concurrent_tasks_peak": 3,
+                "total_time": 16.35866904258728,
+                "questions_per_second": 0.1833890026254557
+              }
+            },
+            "quiz_creation": {
+              "duration": 4.410743713378906e-05
+            }
+          },
+          "total_duration": 16.358817100524902,
+          "questions_per_second": 0.18338734283567115
+        },
+        "success": true,
+        "partial_generation": false
+      },
+      "true_false": {
+        "topic": "Programming fundamentals",
+        "requested_questions": 3,
+        "generated_questions": 2,
+        "question_types": [
+          "true_false"
+        ],
+        "total_time_seconds": 19.52453303337097,
+        "questions_per_second": 0.10243522836534102,
+        "evaluation_enabled": false,
+        "metrics": {
+          "start_time": 1748421789.366314,
+          "topic": "Programming fundamentals",
+          "requested_questions": 3,
+          "phases": {
+            "question_generation": {
+              "duration": 19.524410724639893,
+              "questions_generated": 2,
+              "evaluation_results": {
+                "context_retrieval_time": 0.00023317337036132812,
+                "total_generation_time": 58.56837868690491,
+                "evaluation_time": 0,
+                "question_generation_attempts": 10,
+                "concurrent_tasks_peak": 3,
+                "total_time": 19.52430486679077,
+                "questions_per_second": 0.10243642545255656
+              }
+            },
+            "quiz_creation": {
+              "duration": 3.504753112792969e-05
+            }
+          },
+          "total_duration": 19.524476051330566,
+          "questions_per_second": 0.10243552732180503
+        },
+        "success": true,
+        "partial_generation": true
+      },
+      "short_answer": {
+        "topic": "Programming fundamentals",
+        "requested_questions": 3,
+        "generated_questions": 2,
+        "question_types": [
+          "short_answer"
+        ],
+        "total_time_seconds": 20.489845037460327,
+        "questions_per_second": 0.0976093277593619,
+        "evaluation_enabled": false,
+        "metrics": {
+          "start_time": 1748421808.890906,
+          "topic": "Programming fundamentals",
+          "requested_questions": 3,
+          "phases": {
+            "question_generation": {
+              "duration": 20.489729166030884,
+              "questions_generated": 2,
+              "evaluation_results": {
+                "context_retrieval_time": 0.00020384788513183594,
+                "total_generation_time": 61.467466592788696,
+                "evaluation_time": 0,
+                "question_generation_attempts": 10,
+                "concurrent_tasks_peak": 3,
+                "total_time": 20.48964285850525,
+                "questions_per_second": 0.09761029090703746
+              }
+            },
+            "quiz_creation": {
+              "duration": 3.409385681152344e-05
+            }
+          },
+          "total_duration": 20.48979091644287,
+          "questions_per_second": 0.09760958558122808
+        },
+        "success": true,
+        "partial_generation": true
+      }
+    },
+    "concurrency_scaling": {
+      "concurrent_1": {
+        "topic": "Computer programming concepts",
+        "requested_questions": 3,
+        "generated_questions": 3,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 0.014504194259643555,
+        "questions_per_second": 206.83672228158133,
+        "evaluation_enabled": false,
+        "metrics": {
+          "start_time": 1748421829.380895,
+          "topic": "Computer programming concepts",
+          "requested_questions": 3,
+          "phases": {
+            "question_generation": {
+              "duration": 0.014413118362426758,
+              "questions_generated": 3,
+              "evaluation_results": {
+                "context_retrieval_time": 0.0003781318664550781,
+                "total_generation_time": 0.029509782791137695,
+                "evaluation_time": 0,
+                "question_generation_attempts": 5,
+                "concurrent_tasks_peak": 3,
+                "total_time": 0.014354944229125977,
+                "questions_per_second": 208.98722782308292
+              }
+            },
+            "quiz_creation": {
+              "duration": 3.409385681152344e-05
+            }
+          },
+          "total_duration": 0.014448881149291992,
+          "questions_per_second": 207.62853324092868
+        },
+        "success": true,
+        "partial_generation": false
+      },
+      "concurrent_2": {
+        "topic": "Computer programming concepts",
+        "requested_questions": 3,
+        "generated_questions": 3,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 0.016227245330810547,
+        "questions_per_second": 184.87426170256532,
+        "evaluation_enabled": false,
+        "metrics": {
+          "start_time": 1748421829.395445,
+          "topic": "Computer programming concepts",
+          "requested_questions": 3,
+          "phases": {
+            "question_generation": {
+              "duration": 0.016165733337402344,
+              "questions_generated": 3,
+              "evaluation_results": {
+                "context_retrieval_time": 0.0001761913299560547,
+                "total_generation_time": 0.039826393127441406,
+                "evaluation_time": 0,
+                "question_generation_attempts": 6,
+                "concurrent_tasks_peak": 3,
+                "total_time": 0.016117095947265625,
+                "questions_per_second": 186.13775147928993
+              }
+            },
+            "quiz_creation": {
+              "duration": 1.5020370483398438e-05
+            }
+          },
+          "total_duration": 0.016182899475097656,
+          "questions_per_second": 185.38087100005893
+        },
+        "success": true,
+        "partial_generation": false
+      },
+      "concurrent_3": {
+        "topic": "Computer programming concepts",
+        "requested_questions": 3,
+        "generated_questions": 3,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 0.012224197387695312,
+        "questions_per_second": 245.41488531752225,
+        "evaluation_enabled": false,
+        "metrics": {
+          "start_time": 1748421829.411711,
+          "topic": "Computer programming concepts",
+          "requested_questions": 3,
+          "phases": {
+            "question_generation": {
+              "duration": 0.011903047561645508,
+              "questions_generated": 3,
+              "evaluation_results": {
+                "context_retrieval_time": 0.00017404556274414062,
+                "total_generation_time": 0.02590632438659668,
+                "evaluation_time": 0,
+                "question_generation_attempts": 5,
+                "concurrent_tasks_peak": 3,
+                "total_time": 0.011617898941040039,
+                "questions_per_second": 258.2222495844364
+              }
+            },
+            "quiz_creation": {
+              "duration": 2.5033950805664062e-05
+            }
+          },
+          "total_duration": 0.011931180953979492,
+          "questions_per_second": 251.4419998801031
+        },
+        "success": true,
+        "partial_generation": false
+      }
+    },
+    "error_handling_robustness": {
+      "narrow_topic_test": {
+        "topic": "Very specific niche programming concept xyz123",
+        "requested_questions": 3,
+        "generated_questions": 3,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 0.009519100189208984,
+        "questions_per_second": 315.1558383008566,
+        "evaluation_enabled": false,
+        "metrics": {
+          "start_time": 1748421829.424198,
+          "topic": "Very specific niche programming concept xyz123",
+          "requested_questions": 3,
+          "phases": {
+            "question_generation": {
+              "duration": 0.009453058242797852,
+              "questions_generated": 3,
+              "evaluation_results": {
+                "context_retrieval_time": 0.0002110004425048828,
+                "total_generation_time": 0.027213335037231445,
+                "evaluation_time": 0,
+                "question_generation_attempts": 5,
+                "concurrent_tasks_peak": 3,
+                "total_time": 0.009386062622070312,
+                "questions_per_second": 319.62284088599876
+              }
+            },
+            "quiz_creation": {
+              "duration": 2.288818359375e-05
+            }
+          },
+          "total_duration": 0.009479045867919922,
+          "questions_per_second": 316.487549675537
+        },
+        "success": true,
+        "partial_generation": false
+      },
+      "diversity_stress_test": {
+        "topic": "Basic programming",
+        "requested_questions": 5,
+        "generated_questions": 5,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 8.347484827041626,
+        "questions_per_second": 0.5989828198072946,
+        "evaluation_enabled": false,
+        "metrics": {
+          "start_time": 1748421829.433801,
+          "topic": "Basic programming",
+          "requested_questions": 5,
+          "phases": {
+            "question_generation": {
+              "duration": 8.346235275268555,
+              "questions_generated": 5,
+              "evaluation_results": {
+                "context_retrieval_time": 0.000324249267578125,
+                "total_generation_time": 33.348970890045166,
+                "evaluation_time": 0,
+                "question_generation_attempts": 13,
+                "concurrent_tasks_peak": 5,
+                "total_time": 8.34599494934082,
+                "questions_per_second": 0.5990897466808206
+              }
+            },
+            "quiz_creation": {
+              "duration": 9.417533874511719e-05
+            }
+          },
+          "total_duration": 8.346333026885986,
+          "questions_per_second": 0.5990654798812285
+        },
+        "success": true,
+        "partial_generation": false
+      },
+      "short_timeout_test": {
+        "topic": "Computer science fundamentals",
+        "requested_questions": 3,
+        "generated_questions": 3,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 0.01332998275756836,
+        "questions_per_second": 225.05655517796458,
+        "evaluation_enabled": false,
+        "metrics": {
+          "start_time": 1748421837.782984,
+          "topic": "Computer science fundamentals",
+          "requested_questions": 3,
+          "phases": {
+            "question_generation": {
+              "duration": 0.012091875076293945,
+              "questions_generated": 3,
+              "evaluation_results": {
+                "context_retrieval_time": 0.00032711029052734375,
+                "total_generation_time": 0.03397941589355469,
+                "evaluation_time": 0,
+                "question_generation_attempts": 5,
+                "concurrent_tasks_peak": 3,
+                "total_time": 0.011781930923461914,
+                "questions_per_second": 254.6271930712103
+              }
+            },
+            "quiz_creation": {
+              "duration": 1.9788742065429688e-05
+            }
+          },
+          "total_duration": 0.012114763259887695,
+          "questions_per_second": 247.63174778107964
+        },
+        "success": true,
+        "partial_generation": false
+      },
+      "many_questions_test": {
+        "topic": "Programming languages",
+        "requested_questions": 10,
+        "generated_questions": 7,
+        "question_types": [
+          "multiple_choice"
+        ],
+        "total_time_seconds": 8.30854082107544,
+        "questions_per_second": 0.8425065424537368,
+        "evaluation_enabled": false,
+        "metrics": {
+          "start_time": 1748421837.7952058,
+          "topic": "Programming languages",
+          "requested_questions": 10,
+          "phases": {
+            "question_generation": {
+              "duration": 8.308439016342163,
+              "questions_generated": 7,
+              "evaluation_results": {
+                "context_retrieval_time": 0.0002779960632324219,
+                "total_generation_time": 33.428311824798584,
+                "evaluation_time": 0,
+                "question_generation_attempts": 31,
+                "concurrent_tasks_peak": 5,
+                "total_time": 8.308326244354248,
+                "questions_per_second": 0.8425283016247352
+              }
+            },
+            "quiz_creation": {
+              "duration": 1.8835067749023438e-05
+            }
+          },
+          "total_duration": 8.30848217010498,
+          "questions_per_second": 0.8425124898488592
+        },
+        "success": true,
+        "partial_generation": true
+      }
+    }
+  }
+}

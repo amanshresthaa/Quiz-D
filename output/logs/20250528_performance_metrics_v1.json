@@ -1,0 +1,86 @@
+[
+  {
+    "operation": "workflow_demo",
+    "timestamp": "2025-05-28T14:17:17.795652",
+    "metrics": {
+      "total_files": 2,
+      "demo_duration": "completed",
+      "features_demonstrated": [
+        "directory_structure",
+        "file_processing",
+        "quiz_generation",
+        "question_generation",
+        "session_management",
+        "logging"
+      ]
+    }
+  },
+  {
+    "operation": "workflow_demo",
+    "timestamp": "2025-05-28T14:19:19.227416",
+    "metrics": {
+      "total_files": 2,
+      "demo_duration": "completed",
+      "features_demonstrated": [
+        "directory_structure",
+        "file_processing",
+        "quiz_generation",
+        "question_generation",
+        "session_management",
+        "logging"
+      ]
+    }
+  },
+  {
+    "operation": "workflow_demo",
+    "timestamp": "2025-05-28T14:22:48.947364",
+    "metrics": {
+      "total_files": 2,
+      "demo_duration": "completed",
+      "features_demonstrated": [
+        "directory_structure",
+        "file_processing",
+        "quiz_generation",
+        "question_generation",
+        "session_management",
+        "logging"
+      ]
+    }
+  },
+  {
+    "operation": "workflow_demo",
+    "timestamp": "2025-05-28T14:25:02.923120",
+    "metrics": {
+      "total_files": 2,
+      "demo_duration": "completed",
+      "features_demonstrated": [
+        "directory_structure",
+        "file_processing",
+        "quiz_generation",
+        "question_generation",
+        "session_management",
+        "logging"
+      ]
+    }
+  },
+  {
+    "operation": "batch_input_processing",
+    "timestamp": "2025-05-28T14:25:42.950455",
+    "metrics": {
+      "session_id": "session_20250528_142542",
+      "files_processed": 2,
+      "errors": 0,
+      "success_rate": 1.0
+    }
+  },
+  {
+    "operation": "batch_input_processing",
+    "timestamp": "2025-05-28T14:28:12.509550",
+    "metrics": {
+      "session_id": "session_20250528_142812",
+      "files_processed": 2,
+      "errors": 0,
+      "success_rate": 1.0
+    }
+  }
+]

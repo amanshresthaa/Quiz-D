@@ -1,0 +1,206 @@
+{
+  "quiz": {
+    "id": "e983ca11-d2d0-4688-9fa9-00162fe23aa6",
+    "title": "Quiz: cardiovascular disease",
+    "description": "Auto-generated quiz for cardiovascular disease",
+    "questions": [
+      {
+        "id": "289cef5b-94ed-4710-8085-1c0646e68f65",
+        "question_text": "During which phase of the cardiac cycle does the \"atrial kick\" occur, contributing to ventricular filling?",
+        "question_type": "multiple_choice",
+        "answer_text": "Atrial Systole (Late Diastole)",
+        "choices": [
+          "1. Ventricular Filling (Early Diastole)",
+          "2. Atrial Systole (Late Diastole)",
+          "3. Isovolumetric Contraction",
+          "4. Ventricular Ejection"
+        ],
+        "difficulty": "medium",
+        "explanation": "The \"atrial kick\" occurs during Atrial Systole (Late Diastole), which contributes the final 30% of ventricular filling. This phase is characterized by the contraction of the atria, which pushes blood into the ventricles, increasing their volume just before ventricular contraction begins.",
+        "source_content_id": "44e908df-16d6-4579-b1b2-a5b546eee089",
+        "tags": [],
+        "created_at": "2025-05-28T14:28:12.601831"
+      },
+      {
+        "id": "cc75d32d-25e9-417d-9b39-3e43cf3cc14d",
+        "question_text": "During which phase of the cardiac cycle does coronary perfusion primarily occur?",
+        "question_type": "multiple_choice",
+        "answer_text": "Diastole",
+        "choices": [
+          "Systole",
+          "Diastole",
+          "Isovolumetric Contraction",
+          "Atrial Systole"
+        ],
+        "difficulty": "medium",
+        "explanation": "Coronary perfusion primarily occurs during diastole when the heart muscle relaxes and the coronary arteries are filled with blood. During systole, the heart contracts and the semilunar valves are open, which limits blood flow to the coronary arteries. Therefore, the correct answer is diastole.",
+        "source_content_id": "44e908df-16d6-4579-b1b2-a5b546eee089",
+        "tags": [],
+        "created_at": "2025-05-28T14:28:12.617940"
+      },
+      {
+        "id": "e5702656-4a62-45de-af52-30c3473078ed",
+        "question_text": "During which phase of the cardiac cycle does coronary perfusion primarily occur?",
+        "question_type": "multiple_choice",
+        "answer_text": "Diastole",
+        "choices": [
+          "Systole",
+          "Diastole",
+          "Isovolumetric Contraction",
+          "Atrial Systole"
+        ],
+        "difficulty": "medium",
+        "explanation": "Coronary perfusion primarily occurs during diastole when the heart muscle relaxes and the coronary arteries are filled with blood. During systole, the heart contracts and the semilunar valves are open, which limits blood flow to the coronary arteries. Therefore, the correct answer is diastole.",
+        "source_content_id": "44e908df-16d6-4579-b1b2-a5b546eee089",
+        "tags": [],
+        "created_at": "2025-05-28T14:28:12.627769"
+      }
+    ],
+    "time_limit": null,
+    "source_content_ids": [],
+    "metadata": {},
+    "created_at": "2025-05-28T14:28:12.633894"
+  },
+  "metadata": {
+    "questions_evaluated": 3,
+    "questions_passed": 3,
+    "questions_failed": 6,
+    "average_score": 1.0,
+    "failed_details": [
+      {
+        "reason": "Similar content already covered",
+        "evaluation": {
+          "passed": true,
+          "score": 1.0,
+          "reasoning": "The context states that coronary blood flow primarily occurs during diastole (80-90%). The question asks during which phase of the cardiac cycle the majority of coronary perfusion occurs, which directly corresponds to the information provided in the context. The suggested answer \"Diastole\" is correct as it aligns with the context's information regarding coronary blood flow.",
+          "details": {
+            "answerable": true,
+            "correct": true,
+            "score": 1.0,
+            "reasoning": "The context states that coronary blood flow primarily occurs during diastole (80-90%). The question asks during which phase of the cardiac cycle the majority of coronary perfusion occurs, which directly corresponds to the information provided in the context. The suggested answer \"Diastole\" is correct as it aligns with the context's information regarding coronary blood flow.",
+            "suggested_improvement": "The question is clear and directly related to the context. No improvements are necessary."
+          }
+        }
+      },
+      {
+        "reason": "Similar content already covered",
+        "evaluation": {
+          "passed": true,
+          "score": 1.0,
+          "reasoning": "The context clearly states that coronary perfusion primarily occurs during diastole, which is the relaxation phase of the cardiac cycle. The question asks for the specific phase during which this perfusion happens, and the answer provided is \"Diastole,\" which matches the information in the context. Therefore, the question is answerable and the answer is correct.",
+          "details": {
+            "answerable": true,
+            "correct": true,
+            "score": 1.0,
+            "reasoning": "The context clearly states that coronary perfusion primarily occurs during diastole, which is the relaxation phase of the cardiac cycle. The question asks for the specific phase during which this perfusion happens, and the answer provided is \"Diastole,\" which matches the information in the context. Therefore, the question is answerable and the answer is correct.",
+            "suggested_improvement": "The question is well-structured and clear. No improvements are necessary."
+          }
+        }
+      },
+      {
+        "reason": "Similar content already covered",
+        "evaluation": {
+          "passed": true,
+          "score": 1.0,
+          "reasoning": "The context clearly states that coronary perfusion primarily occurs during diastole, which is the relaxation phase of the cardiac cycle. The question asks for the specific phase during which this perfusion happens, and the answer provided is \"Diastole,\" which matches the information in the context. Therefore, the question is answerable and the answer is correct.",
+          "details": {
+            "answerable": true,
+            "correct": true,
+            "score": 1.0,
+            "reasoning": "The context clearly states that coronary perfusion primarily occurs during diastole, which is the relaxation phase of the cardiac cycle. The question asks for the specific phase during which this perfusion happens, and the answer provided is \"Diastole,\" which matches the information in the context. Therefore, the question is answerable and the answer is correct.",
+            "suggested_improvement": "The question is well-structured and clear. No improvements are necessary."
+          }
+        }
+      },
+      {
+        "reason": "Similar content already covered",
+        "evaluation": {
+          "passed": true,
+          "score": 1.0,
+          "reasoning": "The context clearly states that coronary perfusion primarily occurs during diastole, which is the relaxation phase of the cardiac cycle. The question asks for the specific phase during which this perfusion happens, and the answer provided is \"Diastole,\" which matches the information in the context. Therefore, the question is answerable and the answer is correct.",
+          "details": {
+            "answerable": true,
+            "correct": true,
+            "score": 1.0,
+            "reasoning": "The context clearly states that coronary perfusion primarily occurs during diastole, which is the relaxation phase of the cardiac cycle. The question asks for the specific phase during which this perfusion happens, and the answer provided is \"Diastole,\" which matches the information in the context. Therefore, the question is answerable and the answer is correct.",
+            "suggested_improvement": "The question is well-structured and clear. No improvements are necessary."
+          }
+        }
+      },
+      {
+        "reason": "Similar content already covered",
+        "evaluation": {
+          "passed": true,
+          "score": 1.0,
+          "reasoning": "The context clearly states that coronary perfusion primarily occurs during diastole, which is the relaxation phase of the cardiac cycle. The question asks for the specific phase during which this perfusion happens, and the answer provided is \"Diastole,\" which matches the information in the context. Therefore, the question is answerable and the answer is correct.",
+          "details": {
+            "answerable": true,
+            "correct": true,
+            "score": 1.0,
+            "reasoning": "The context clearly states that coronary perfusion primarily occurs during diastole, which is the relaxation phase of the cardiac cycle. The question asks for the specific phase during which this perfusion happens, and the answer provided is \"Diastole,\" which matches the information in the context. Therefore, the question is answerable and the answer is correct.",
+            "suggested_improvement": "The question is well-structured and clear. No improvements are necessary."
+          }
+        }
+      },
+      {
+        "reason": "Similar content already covered",
+        "evaluation": {
+          "passed": true,
+          "score": 1.0,
+          "reasoning": "The context states that coronary blood flow primarily occurs during diastole (80-90%). The question asks during which phase of the cardiac cycle the majority of coronary perfusion occurs, which directly corresponds to the information provided in the context. The suggested answer \"Diastole\" is correct as it aligns with the context's information regarding coronary blood flow.",
+          "details": {
+            "answerable": true,
+            "correct": true,
+            "score": 1.0,
+            "reasoning": "The context states that coronary blood flow primarily occurs during diastole (80-90%). The question asks during which phase of the cardiac cycle the majority of coronary perfusion occurs, which directly corresponds to the information provided in the context. The suggested answer \"Diastole\" is correct as it aligns with the context's information regarding coronary blood flow.",
+            "suggested_improvement": "The question is clear and directly related to the context. No improvements are necessary."
+          }
+        }
+      }
+    ],
+    "performance": {
+      "context_retrieval_time": 0.00022220611572265625,
+      "total_generation_time": 0.22327804565429688,
+      "evaluation_time": 0,
+      "question_generation_attempts": 10,
+      "concurrent_tasks_peak": 3,
+      "total_time": 0.07474017143249512,
+      "questions_per_second": 40.1390569823563
+    },
+    "warning": "Unable to perform quiz-level evaluation: no contexts available",
+    "generation_stats": {
+      "start_time": 1748438892.5590882,
+      "topic": "cardiovascular disease",
+      "requested_questions": 3,
+      "phases": {
+        "question_generation": {
+          "duration": 0.0747976303100586,
+          "questions_generated": 3,
+          "evaluation_results": {
+            "context_retrieval_time": 0.00022220611572265625,
+            "total_generation_time": 0.22327804565429688,
+            "evaluation_time": 0,
+            "question_generation_attempts": 10,
+            "concurrent_tasks_peak": 3,
+            "total_time": 0.07474017143249512,
+            "questions_per_second": 40.1390569823563
+          }
+        },
+        "quiz_creation": {
+          "duration": 1.71661376953125e-05
+        },
+        "quiz_evaluation": {
+          "duration": 9.202957153320312e-05,
+          "contexts_found": 0
+        }
+      },
+      "total_duration": 0.07490992546081543,
+      "questions_per_second": 40.04809751905664
+    }
+  },
+  "generation_info": {
+    "timestamp": "2025-05-28T14:28:12.634110",
+    "session_id": "session_20250528_142812",
+    "query": "cardiovascular disease"
+  }
+}

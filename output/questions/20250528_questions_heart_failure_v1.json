@@ -1,0 +1,126 @@
+{
+  "questions": [
+    {
+      "id": "055f8eda-e21a-4595-a52d-9250215e83dc",
+      "question_text": "During which phase of the cardiac cycle does the \"atrial kick\" occur, contributing to ventricular filling?",
+      "question_type": "multiple_choice",
+      "answer_text": "Atrial Systole (Late Diastole)",
+      "choices": [
+        "1. Ventricular Filling (Early Diastole)",
+        "2. Atrial Systole (Late Diastole)",
+        "3. Isovolumetric Contraction",
+        "4. Ventricular Ejection"
+      ],
+      "difficulty": "medium",
+      "explanation": "The \"atrial kick\" occurs during Atrial Systole (Late Diastole), which contributes the final 30% of ventricular filling. This phase is characterized by the contraction of the atria, which pushes blood into the ventricles, increasing their volume just before ventricular contraction begins.",
+      "source_content_id": "44e908df-16d6-4579-b1b2-a5b546eee089",
+      "tags": [],
+      "created_at": "2025-05-28T14:28:24.121507"
+    },
+    {
+      "id": "26779bc0-e3b6-4c89-8713-2a7158aeea92",
+      "question_text": "During which phase of the cardiac cycle does coronary perfusion primarily occur?",
+      "question_type": "multiple_choice",
+      "answer_text": "Diastole",
+      "choices": [
+        "Systole",
+        "Diastole",
+        "Isovolumetric Contraction",
+        "Atrial Systole"
+      ],
+      "difficulty": "medium",
+      "explanation": "Coronary perfusion primarily occurs during diastole when the heart muscle relaxes and the coronary arteries are filled with blood. During systole, the heart contracts and the semilunar valves are open, which limits blood flow to the coronary arteries. Therefore, the correct answer is diastole.",
+      "source_content_id": "44e908df-16d6-4579-b1b2-a5b546eee089",
+      "tags": [],
+      "created_at": "2025-05-28T14:28:12.649540"
+    },
+    {
+      "id": "4c82cbdd-dab8-4624-97f6-c229c95aadd2",
+      "question_text": "How does an increase in preload affect stroke volume, and what is the underlying mechanism?",
+      "question_type": "multiple_choice",
+      "answer_text": "An increase in preload leads to an increase in stroke volume due to the Frank-Starling mechanism. This mechanism states that as the volume of blood returning to the heart (venous return) increases, the heart muscle fibers are stretched more, leading to a more forceful contraction. This results in a greater volume of blood being ejected from the ventricles during systole, thereby increasing stroke volume.",
+      "choices": [
+        "Decreases",
+        "Increases",
+        "Remains the same",
+        "Becomes unpredictable"
+      ],
+      "difficulty": "medium",
+      "explanation": "According to the Frank-Starling mechanism, an increase in preload (the volume of blood in the ventricles at the end of diastole) leads to an increase in stroke volume. This is because greater preload stretches the myocardial fibers, resulting in a more forceful contraction during systole. Therefore, the correct answer is B) Increases.",
+      "source_content_id": "4225c0e8-ccff-4313-af1a-b21d0c5904a6",
+      "tags": [],
+      "created_at": "2025-05-28T14:28:34.650487"
+    },
+    {
+      "id": "87cf2162-e8a2-408f-92d8-a1f0399d0e48",
+      "question_text": "During which phase of the cardiac cycle does coronary perfusion primarily occur?",
+      "question_type": "multiple_choice",
+      "answer_text": "Diastole",
+      "choices": [
+        "Systole",
+        "Diastole",
+        "Isovolumetric Contraction",
+        "Atrial Systole"
+      ],
+      "difficulty": "medium",
+      "explanation": "Coronary perfusion primarily occurs during diastole when the heart muscle relaxes and the coronary arteries are filled with blood. During systole, the heart contracts and the semilunar valves are open, which limits blood flow to the coronary arteries. Therefore, the correct answer is diastole.",
+      "source_content_id": "44e908df-16d6-4579-b1b2-a5b546eee089",
+      "tags": [],
+      "created_at": "2025-05-28T14:28:45.896863"
+    },
+    {
+      "id": "fff8d08b-f522-4e07-bfbd-29b4f18cf574",
+      "question_text": "During which phase of the cardiac cycle does coronary perfusion primarily occur?",
+      "question_type": "multiple_choice",
+      "answer_text": "Diastole",
+      "choices": [
+        "Systole",
+        "Diastole",
+        "Isovolumetric Contraction",
+        "Atrial Systole"
+      ],
+      "difficulty": "medium",
+      "explanation": "Coronary perfusion primarily occurs during diastole when the heart muscle relaxes and the coronary arteries are filled with blood. During systole, the heart contracts and the semilunar valves are open, which limits blood flow to the coronary arteries.",
+      "source_content_id": "44e908df-16d6-4579-b1b2-a5b546eee089",
+      "tags": [],
+      "created_at": "2025-05-28T14:28:45.891826"
+    }
+  ],
+  "metadata": {
+    "questions_evaluated": 5,
+    "questions_passed": 5,
+    "questions_failed": 1,
+    "average_score": 1.0,
+    "failed_details": [
+      {
+        "reason": "Similar content already covered",
+        "evaluation": {
+          "passed": true,
+          "score": 1.0,
+          "reasoning": "The context states that coronary blood flow primarily occurs during diastole (80-90%). The question asks during which phase of the cardiac cycle coronary perfusion primarily occurs, and the suggested answer is \"Diastole,\" which directly aligns with the information provided in the context. Therefore, the question is answerable and the suggested answer is correct.",
+          "details": {
+            "answerable": true,
+            "correct": true,
+            "score": 1.0,
+            "reasoning": "The context states that coronary blood flow primarily occurs during diastole (80-90%). The question asks during which phase of the cardiac cycle coronary perfusion primarily occurs, and the suggested answer is \"Diastole,\" which directly aligns with the information provided in the context. Therefore, the question is answerable and the suggested answer is correct.",
+            "suggested_improvement": "The question is clear and directly related to the context. No improvements are necessary."
+          }
+        }
+      }
+    ],
+    "performance": {
+      "context_retrieval_time": 0.0001380443572998047,
+      "total_generation_time": 122.76617383956909,
+      "evaluation_time": 0,
+      "question_generation_attempts": 10,
+      "concurrent_tasks_peak": 5,
+      "total_time": 33.26418495178223,
+      "questions_per_second": 0.1503118145611474
+    }
+  },
+  "generation_info": {
+    "timestamp": "2025-05-28T14:28:45.899752",
+    "session_id": "session_20250528_142812",
+    "query": "heart failure"
+  }
+}

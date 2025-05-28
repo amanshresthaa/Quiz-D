@@ -1,0 +1,322 @@
+[
+  {
+    "timestamp": "2025-05-28T14:17:17.754404",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20250528_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:17:17.754701",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:17:17.781491",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20241224_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:17:17.781832",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:17:17.792463",
+    "step": "start_quiz_generation",
+    "details": {
+      "query": "cardiovascular disease",
+      "num_questions": 3,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:17:17.794596",
+    "step": "start_question_generation",
+    "details": {
+      "query": "cardiovascular disease",
+      "num_questions": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:18:35.784932",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20250528_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:18:35.785405",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:18:35.811522",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20241224_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:18:35.812119",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:18:35.823333",
+    "step": "start_quiz_generation",
+    "details": {
+      "query": "cardiovascular disease",
+      "num_questions": 3,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:19:19.195458",
+    "step": "start_question_generation",
+    "details": {
+      "query": "cardiovascular disease",
+      "num_questions": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:22:20.370609",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20250528_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:22:20.371397",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:22:20.394774",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20241224_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:22:20.395284",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:22:20.405823",
+    "step": "start_quiz_generation",
+    "details": {
+      "query": "cardiovascular disease",
+      "num_questions": 3,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:22:20.455451",
+    "step": "start_question_generation",
+    "details": {
+      "query": "cardiovascular disease",
+      "num_questions": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:02.817437",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20250528_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:02.818160",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:02.841901",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20241224_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:02.842459",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:02.853075",
+    "step": "start_quiz_generation",
+    "details": {
+      "query": "cardiovascular disease",
+      "num_questions": 3,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:02.886896",
+    "step": "start_question_generation",
+    "details": {
+      "query": "cardiovascular disease",
+      "num_questions": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:02.921939",
+    "step": "questions_generated",
+    "details": {
+      "output_file": "/Users/amankumarshrestha/Downloads/Quiz-D/output/questions/20250528_questions_cardiovascular_disease_v1.json",
+      "question_count": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:42.873862",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20250528_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:42.876743",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:42.916303",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20241224_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:25:42.917088",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:26:11.303565",
+    "step": "start_quiz_generation",
+    "details": {
+      "query": "heart failure",
+      "num_questions": 5,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:12.447208",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20250528_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:12.448373",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:12.495481",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20241224_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:12.496227",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:12.512775",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20250528_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:12.513307",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:12.541997",
+    "step": "read_input_file",
+    "details": {
+      "file": "/Users/amankumarshrestha/Downloads/Quiz-D/input/20241224_medical_student_notes_v1.txt"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:12.542743",
+    "step": "start_ingestion",
+    "details": {
+      "title": "Medical Student Notes",
+      "content_length": 7119
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:12.558708",
+    "step": "start_quiz_generation",
+    "details": {
+      "query": "cardiovascular disease",
+      "num_questions": 3,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:12.634930",
+    "step": "start_question_generation",
+    "details": {
+      "query": "heart failure",
+      "num_questions": 5
+    }
+  },
+  {
+    "timestamp": "2025-05-28T14:28:45.901390",
+    "step": "questions_generated",
+    "details": {
+      "output_file": "/Users/amankumarshrestha/Downloads/Quiz-D/output/questions/20250528_questions_heart_failure_v1.json",
+      "question_count": 5
+    }
+  }
+]

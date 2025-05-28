@@ -1,0 +1,208 @@
+Medical Physiology - Cardiovascular System
+Class Notes - Week 8: Cardiac Cycle and Hemodynamics
+Professor Dr. Sarah Chen | Date: May 28, 2025
+
+CARDIAC CYCLE OVERVIEW
+======================
+
+The cardiac cycle represents the complete sequence of events during one heartbeat, typically lasting 0.8 seconds at rest (heart rate ~75 bpm). The cycle consists of two major phases:
+
+1. SYSTOLE (Contraction Phase) - Duration: ~0.3 seconds
+   - Ventricular systole: Ventricles contract and eject blood
+   - Atrial systole occurs at the end of diastole
+
+2. DIASTOLE (Relaxation Phase) - Duration: ~0.5 seconds
+   - Ventricular filling occurs
+   - Coronary perfusion primarily happens during this phase
+
+DETAILED CARDIAC CYCLE PHASES
+============================
+
+Phase 1: Ventricular Filling (Early Diastole)
+- AV valves open (tricuspid and mitral)
+- Semilunar valves closed (aortic and pulmonary)
+- Passive ventricular filling (~70% of total filling)
+- Ventricular pressure: 0-5 mmHg
+- Atrial pressure: 2-8 mmHg
+
+Phase 2: Atrial Systole (Late Diastole)
+- "Atrial kick" contributes final 30% of ventricular filling
+- P wave on ECG represents atrial depolarization
+- Ventricular pressure rises slightly to 8-10 mmHg
+
+Phase 3: Isovolumetric Contraction
+- QRS complex triggers ventricular contraction
+- All valves closed momentarily
+- Ventricular pressure rises rapidly without volume change
+- Duration: ~0.05 seconds
+
+Phase 4: Ventricular Ejection
+- Ventricular pressure exceeds arterial pressure
+- Semilunar valves open
+- Stroke volume ejected (~70ml per ventricle)
+- Peak ventricular pressure: ~120 mmHg (left), ~25 mmHg (right)
+
+Phase 5: Isovolumetric Relaxation
+- T wave represents ventricular repolarization
+- Semilunar valves close (S2 heart sound)
+- Ventricular pressure drops rapidly
+- All valves closed briefly
+
+PRESSURE-VOLUME RELATIONSHIPS
+=============================
+
+Left Ventricular Pressure-Volume Loop:
+- End Diastolic Volume (EDV): ~120-130 ml
+- End Systolic Volume (ESV): ~50-60 ml
+- Stroke Volume (SV): EDV - ESV = ~70 ml
+- Ejection Fraction (EF): SV/EDV = ~55-65%
+
+Key Pressure Values:
+- Left ventricular end-diastolic pressure: 8-12 mmHg
+- Aortic systolic pressure: 100-140 mmHg
+- Aortic diastolic pressure: 60-90 mmHg
+- Mean arterial pressure: (Systolic + 2×Diastolic)/3
+
+HEART SOUNDS AND MURMURS
+=======================
+
+S1 Heart Sound ("Lub"):
+- Caused by closure of AV valves (mitral and tricuspid)
+- Marks beginning of systole
+- Best heard at apex for mitral, left sternal border for tricuspid
+
+S2 Heart Sound ("Dub"):
+- Caused by closure of semilunar valves (aortic and pulmonary)
+- Marks beginning of diastole
+- May split during inspiration (A2 before P2)
+
+Pathological Sounds:
+- S3 gallop: Ventricular gallop, indicates heart failure
+- S4 gallop: Atrial gallop, indicates decreased ventricular compliance
+- Murmurs: Turbulent blood flow through valves
+
+REGULATION OF CARDIAC OUTPUT
+===========================
+
+Cardiac Output (CO) = Heart Rate (HR) × Stroke Volume (SV)
+Normal CO: ~5-6 L/min at rest
+
+Factors Affecting Heart Rate:
+1. Sympathetic stimulation: Increases HR via β1-adrenergic receptors
+2. Parasympathetic stimulation: Decreases HR via muscarinic receptors
+3. Circulating catecholamines (epinephrine, norepinephrine)
+4. Temperature, electrolyte imbalances, medications
+
+Factors Affecting Stroke Volume:
+1. PRELOAD (Frank-Starling Mechanism):
+   - Venous return determines EDV
+   - Increased preload → increased contractility
+   - Optimal sarcomere length: 2.0-2.2 μm
+
+2. AFTERLOAD:
+   - Resistance against which ventricle must pump
+   - Increased afterload → decreased stroke volume
+   - Primarily determined by systemic vascular resistance
+
+3. CONTRACTILITY (Inotropy):
+   - Intrinsic ability of myocardium to contract
+   - Enhanced by: Sympathetic stimulation, calcium, digitalis
+   - Impaired by: Heart failure, ischemia, negative inotropes
+
+CORONARY CIRCULATION
+===================
+
+Coronary Blood Flow:
+- ~250 ml/min at rest (5% of cardiac output)
+- Can increase 4-5 fold during exercise
+- Primarily occurs during diastole (80-90%)
+
+Coronary Arteries:
+- Right Coronary Artery (RCA): Supplies right ventricle, inferior LV wall
+- Left Anterior Descending (LAD): Supplies anterior LV wall, septum
+- Left Circumflex (LCX): Supplies lateral and posterior LV wall
+
+Metabolic Regulation:
+- Adenosine: Primary metabolic vasodilator
+- Oxygen extraction: 60-70% (very high compared to other organs)
+- Autoregulation maintains constant flow despite pressure changes
+
+CLINICAL CORRELATIONS
+====================
+
+Myocardial Infarction (MI):
+- Result of coronary artery occlusion
+- ST-elevation MI (STEMI): Complete vessel occlusion
+- Non-ST elevation MI (NSTEMI): Partial occlusion
+- Troponin elevation indicates myocardial necrosis
+
+Heart Failure:
+- Systolic HF: Reduced ejection fraction (<40%)
+- Diastolic HF: Preserved ejection fraction (>50%)
+- Compensatory mechanisms: Increased heart rate, vasoconstriction
+
+Valvular Disease:
+- Stenosis: Narrowed valve opening
+- Regurgitation: Incompetent valve closure
+- Affects preload, afterload, and cardiac output
+
+KEY PHARMACOLOGY
+===============
+
+Beta Blockers:
+- Block β1-adrenergic receptors
+- Decrease heart rate and contractility
+- Examples: Metoprolol, Propranolol, Atenolol
+
+ACE Inhibitors:
+- Block angiotensin-converting enzyme
+- Reduce afterload and preload
+- Examples: Lisinopril, Enalapril, Captopril
+
+Calcium Channel Blockers:
+- Block L-type calcium channels
+- Reduce contractility and vascular tone
+- Examples: Amlodipine, Diltiazem, Verapamil
+
+Digitalis/Digoxin:
+- Inhibits Na+/K+-ATPase pump
+- Increases intracellular calcium
+- Positive inotropic effect
+
+EXAM REVIEW POINTS
+=================
+
+1. Understand the timing of valve openings/closings
+2. Know normal pressure values for all chambers
+3. Identify factors affecting preload, afterload, contractility
+4. Recognize ECG correlation with mechanical events
+5. Calculate cardiac output, stroke volume, ejection fraction
+6. Understand Frank-Starling mechanism
+7. Know coronary anatomy and perfusion timing
+8. Identify heart sounds and their causes
+9. Understand basic cardiac pharmacology mechanisms
+10. Recognize signs and symptoms of major cardiac pathologies
+
+PRACTICE QUESTIONS FOR REVIEW
+=============================
+
+1. What happens to stroke volume when preload increases?
+2. During which phase of the cardiac cycle does coronary perfusion primarily occur?
+3. What causes the S1 heart sound?
+4. How does sympathetic stimulation affect cardiac output?
+5. What is the normal ejection fraction range?
+6. Which coronary artery supplies the anterior wall of the left ventricle?
+7. What is the mechanism of action of ACE inhibitors?
+8. How does afterload affect stroke volume?
+
+ADDITIONAL STUDY RESOURCES
+=========================
+
+- Costanzo Physiology Textbook: Chapter 4 (Cardiovascular Physiology)
+- Online ECG interpretation modules
+- Cardiac catheterization videos
+- Echo/ultrasound image interpretation
+- Pharmacology review cards for cardiac medications
+
+Next Class: Vascular Physiology and Blood Pressure Regulation
+Reading Assignment: Costanzo Chapter 4, sections 4.4-4.6

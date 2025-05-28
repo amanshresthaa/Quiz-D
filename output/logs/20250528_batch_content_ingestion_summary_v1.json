@@ -1,0 +1,19 @@
+{
+  "operation": "batch_content_ingestion",
+  "timestamp": "2025-05-28T14:28:12.558412",
+  "session_id": "ca319c7b-e934-4f5e-9ade-d73fba380453",
+  "input_files": [
+    "/Users/amankumarshrestha/Downloads/Quiz-D/input/20250528_medical_student_notes_v1.txt",
+    "/Users/amankumarshrestha/Downloads/Quiz-D/input/20241224_medical_student_notes_v1.txt"
+  ],
+  "output_files": [
+    "c2b8188a-238b-45f5-bccb-2fb0255e1ce0",
+    "44e908df-16d6-4579-b1b2-a5b546eee089"
+  ],
+  "metrics": {
+    "total_files": 2,
+    "successful": 2,
+    "failed": 0
+  },
+  "processing_time": "2025-05-28 14:28:12"
+}

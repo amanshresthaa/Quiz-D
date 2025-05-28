@@ -1,0 +1,256 @@
+{
+  "health": {
+    "status": 200,
+    "data": {
+      "status": "healthy",
+      "timestamp": "2025-05-27T22:31:35.251458",
+      "version": "1.0.0",
+      "config_valid": true
+    },
+    "success": true
+  },
+  "search_modes": {
+    "SEMANTIC_ONLY": {
+      "status": 200,
+      "data": [
+        {
+          "chunk_id": "15d352c4-cda7-42a2-beb2-26b482cc5318",
+          "content_id": "23bece1f-7775-4f3c-8428-cda816a3bac3",
+          "chunk_text": "Python is a high-level, interpreted programming language known for its simplicity and readability. It supports multiple programming paradigms including procedural, object-oriented, and functional programming. Python's extensive standard library and vibrant ecosystem make it popular for web development, data science, artificial intelligence, and automation. Key features include dynamic typing, automatic memory management, and an interactive interpreter. Popular frameworks include Django for web development, NumPy for numerical computing, and TensorFlow for machine learning.",
+          "similarity_score": 0.6728485878030476,
+          "chunk_index": 0,
+          "metadata": {
+            "paragraph_index": 0,
+            "sub_chunk_index": 0,
+            "is_structured": false,
+            "total_sub_chunks": 1
+          }
+        }
+      ],
+      "success": true
+    },
+    "LEXICAL_ONLY": {
+      "status": 200,
+      "data": [],
+      "success": true
+    },
+    "HYBRID": {
+      "status": 200,
+      "data": [
+        {
+          "chunk_id": "15d352c4-cda7-42a2-beb2-26b482cc5318",
+          "content_id": "23bece1f-7775-4f3c-8428-cda816a3bac3",
+          "chunk_text": "Python is a high-level, interpreted programming language known for its simplicity and readability. It supports multiple programming paradigms including procedural, object-oriented, and functional programming. Python's extensive standard library and vibrant ecosystem make it popular for web development, data science, artificial intelligence, and automation. Key features include dynamic typing, automatic memory management, and an interactive interpreter. Popular frameworks include Django for web development, NumPy for numerical computing, and TensorFlow for machine learning.",
+          "similarity_score": 0.7,
+          "chunk_index": 0,
+          "metadata": {
+            "paragraph_index": 0,
+            "sub_chunk_index": 0,
+            "is_structured": false,
+            "total_sub_chunks": 1,
+            "hybrid_metadata": {
+              "semantic_score": 1.0,
+              "lexical_score": null,
+              "semantic_rank": null,
+              "lexical_rank": null
+            }
+          }
+        }
+      ],
+      "success": true
+    },
+    "AUTO": {
+      "status": 200,
+      "data": [
+        {
+          "chunk_id": "15d352c4-cda7-42a2-beb2-26b482cc5318",
+          "content_id": "23bece1f-7775-4f3c-8428-cda816a3bac3",
+          "chunk_text": "Python is a high-level, interpreted programming language known for its simplicity and readability. It supports multiple programming paradigms including procedural, object-oriented, and functional programming. Python's extensive standard library and vibrant ecosystem make it popular for web development, data science, artificial intelligence, and automation. Key features include dynamic typing, automatic memory management, and an interactive interpreter. Popular frameworks include Django for web development, NumPy for numerical computing, and TensorFlow for machine learning.",
+          "similarity_score": 0.7,
+          "chunk_index": 0,
+          "metadata": {
+            "paragraph_index": 0,
+            "sub_chunk_index": 0,
+            "is_structured": false,
+            "total_sub_chunks": 1,
+            "hybrid_metadata": {
+              "semantic_score": 1.0,
+              "lexical_score": null,
+              "semantic_rank": null,
+              "lexical_rank": null
+            }
+          }
+        }
+      ],
+      "success": true
+    }
+  },
+  "search_comparison": {
+    "status": 200,
+    "data": {
+      "query": "machine learning algorithms",
+      "max_results": 3,
+      "search_modes": {
+        "semantic_only": {
+          "count": 3,
+          "results": [
+            {
+              "chunk_id": "a718b00c-e93d-407f-8b25-29bc1a51eb91",
+              "similarity_score": 0.630911421845282,
+              "text_preview": "Machine learning is a subset of artificial intelligence that focuses on the development of algorithm..."
+            },
+            {
+              "chunk_id": "6a2a1551-901d-44c7-a214-6d5694ada806",
+              "similarity_score": 0.5572580336742734,
+              "text_preview": "quiz generation educational assessment machine learning"
+            },
+            {
+              "chunk_id": "1a8612a2-5c9b-446d-b510-70948766cc0c",
+              "similarity_score": 0.3540226914820497,
+              "text_preview": "Quiz generation is a process of creating educational assessments automatically. This involves analyz..."
+            }
+          ]
+        },
+        "lexical_only": {
+          "count": 0,
+          "results": []
+        },
+        "hybrid": {
+          "count": 3,
+          "results": [
+            {
+              "chunk_id": "a718b00c-e93d-407f-8b25-29bc1a51eb91",
+              "similarity_score": 0.7,
+              "text_preview": "Machine learning is a subset of artificial intelligence that focuses on the development of algorithm..."
+            },
+            {
+              "chunk_id": "6a2a1551-901d-44c7-a214-6d5694ada806",
+              "similarity_score": 0.5137975075689384,
+              "text_preview": "quiz generation educational assessment machine learning"
+            },
+            {
+              "chunk_id": "1a8612a2-5c9b-446d-b510-70948766cc0c",
+              "similarity_score": 0.0,
+              "text_preview": "Quiz generation is a process of creating educational assessments automatically. This involves analyz..."
+            }
+          ]
+        },
+        "auto": {
+          "count": 3,
+          "results": [
+            {
+              "chunk_id": "a718b00c-e93d-407f-8b25-29bc1a51eb91",
+              "similarity_score": 0.7,
+              "text_preview": "Machine learning is a subset of artificial intelligence that focuses on the development of algorithm..."
+            },
+            {
+              "chunk_id": "6a2a1551-901d-44c7-a214-6d5694ada806",
+              "similarity_score": 0.5137975075689384,
+              "text_preview": "quiz generation educational assessment machine learning"
+            },
+            {
+              "chunk_id": "1a8612a2-5c9b-446d-b510-70948766cc0c",
+              "similarity_score": 0.0,
+              "text_preview": "Quiz generation is a process of creating educational assessments automatically. This involves analyz..."
+            }
+          ]
+        }
+      }
+    },
+    "success": true
+  },
+  "retrieval_stats": {
+    "status": 200,
+    "data": {
+      "vector_storage": {
+        "total_vectors": 6,
+        "dimensions": 512,
+        "metadata_entries": 6,
+        "index_type": "SimpleVectorStore",
+        "similarity_threshold": 0.7,
+        "max_retrieval_results": 10,
+        "retrieval_engine": {
+          "total_searches": 6,
+          "semantic_searches": 4,
+          "lexical_searches": 6,
+          "hybrid_searches": 4,
+          "average_results": 1.4444444444444444,
+          "errors": 0,
+          "search_modes_used": {},
+          "lexical_chunks": 0,
+          "semantic_search_available": true,
+          "hybrid_search_available": true,
+          "search_mode_distribution": {
+            "semantic_percentage": 66.66666666666666,
+            "lexical_percentage": 100.0,
+            "hybrid_percentage": 66.66666666666666
+          },
+          "average_results_per_search": 1.4444444444444444
+        },
+        "hybrid_search_available": true
+      },
+      "embedding_generation": {
+        "model": "text-embedding-3-small",
+        "dimensions": 512,
+        "batch_size": 100,
+        "client_initialized": true,
+        "dspy_embedder_available": true,
+        "api_key_configured": true
+      },
+      "pipeline_health": {
+        "content_processor_active": true,
+        "embedding_generator_active": true,
+        "vector_store_active": true,
+        "api_key_configured": true
+      },
+      "hybrid_search_available": true,
+      "retrieval_engine": {
+        "total_searches": 6,
+        "semantic_searches": 4,
+        "lexical_searches": 6,
+        "hybrid_searches": 4,
+        "average_results": 1.4444444444444444,
+        "errors": 0,
+        "search_modes_used": {},
+        "lexical_chunks": 0,
+        "semantic_search_available": true,
+        "hybrid_search_available": true,
+        "search_mode_distribution": {
+          "semantic_percentage": 66.66666666666666,
+          "lexical_percentage": 100.0,
+          "hybrid_percentage": 66.66666666666666
+        },
+        "average_results_per_search": 1.4444444444444444
+      }
+    },
+    "success": true
+  },
+  "performance": {
+    "individual_results": [
+      {
+        "query": "Python programming language",
+        "duration": 0.0018391609191894531,
+        "results_count": 1,
+        "success": true
+      },
+      {
+        "query": "machine learning algorithms",
+        "duration": 0.001361846923828125,
+        "results_count": 3,
+        "success": true
+      },
+      {
+        "query": "web development frameworks",
+        "duration": 0.001516103744506836,
+        "results_count": 0,
+        "success": true
+      }
+    ],
+    "summary": {
+      "total_tests": 3,
+      "successful_tests": 3,
+      "average_duration": 0.0015723705291748047,
+      "average_results": 1.3333333333333333
+    }
+  }
+}
